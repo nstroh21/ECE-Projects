@@ -1,0 +1,2 @@
+Some basic convex optimization problems using cvxpy. Still needs updating because dynamics bugs in LQR code affects this project as well. Solving LQR as QP failing
+currently because the finite differences equations are incorrect in the integration of dynamics currently 
