@@ -1,0 +1,1 @@
+Programming reports give a description of various problems. If you have any interest in the solutions and waht specific algorithms/strategies/  data strucutres were used and implemented in the code, you can find that information in my reports
