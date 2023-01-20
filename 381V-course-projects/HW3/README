@@ -1,0 +1,5 @@
+Implementing value iteration and policy iteration for gridworld
+These are sort of the "fundamental algorithms" in the field
+of reinforcement learning where we can solve Bellman's equations
+exactly given a discrete Q function (table of values) and a discrete
+probability distribution
