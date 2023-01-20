@@ -1,0 +1,5 @@
+This program implements the Gale-Shapley algorithm (https://en.wikipedia.org/wiki/Gale%E2%80%93Shapley_algorithm)
+Referred to as the "stable marriage problem" the goal is to optimize pairings
+such that no individual in any pairing would be able to increase their level
+of satisfaction by changing partners. General framing of a problem with
+numerous interesting applications
